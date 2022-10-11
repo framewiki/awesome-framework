@@ -5,4 +5,4 @@ A COMPLETELY UNOFFICIAL curated list of projects, tools, documentation and resou
 This repository and the resources within it are COMPLETELY UNOFFICIAL and not in any way endorsed
 or supported by Framework. Your use of these guides and projects is **AT YOUR OWN RISK** and 
 **MAY VOID YOUR WARRANTY.** Please do not reach out to Framework support about problems related
-to or caused by these guides or resources.
+to these guides or resources.
