@@ -1,4 +1,4 @@
-[Home](/README.md)  |  [Category Index]()
+[Home](/README.md)
 # Template Page
 
 
