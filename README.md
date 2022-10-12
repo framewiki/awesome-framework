@@ -8,7 +8,7 @@ or supported by Framework. Your use of these guides and projects is **AT YOUR OW
 to these resources, but you can feel free to reach out to the community maintainers via 
 GitHub Discussions or Issues within this repository.
 
-## Index
+## Table of Contents
 
 ### Expansion Cards
 
@@ -37,8 +37,6 @@ GitHub Discussions or Issues within this repository.
 - [Framework Subreddit](https://reddit.com/r/framework)
 
 
-### Contributing
-- [Index](/contributing/index.md)
-- [Template File](/contributing/template.md)
-- [License](/LICENSE)
+## Contributing
+This list's Contribution Guidelines can be found [here.](/contributing.md)
 
