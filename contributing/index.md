@@ -20,8 +20,6 @@ Once someone is assigned, they can move on to Making Changes (below).
         - Add a link to the page in the appropriate place in the main README.md file.
     - See the [Formatting](/contributing/formatting.md) page for more detail
     on how different types of changes should be formatted.
-    - See the [Code Ownership](/contributing/code-ownership.md) page for information about
-    code ownershp and to determine whether you should be marked as the codeowner for your changes.
 3. Open a Pull Request into the main branch of this repo.
     - Be sure to give your pull request a descriptive name and include a
     summary of what you changed in the body of the PR. 
