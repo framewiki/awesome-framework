@@ -16,7 +16,7 @@ Once someone is assigned, they can move on to Making Changes (below).
 1. Fork this repository.
 2. Make the suggested changes.
     - If the changes involve creating new markdown files, make a copy of
-    the [template file](/contributing/template.md).
+    the [template file](/template.md).
         - Add a link to the page in the appropriate place in the main README.md file.
 3. Open a Pull Request into the main branch of this repo.
     - Be sure to give your pull request a descriptive name and include a
