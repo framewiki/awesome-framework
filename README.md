@@ -1,4 +1,5 @@
 # Awesome Framework
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of projects, tools, documentation and resources related to the Framework Laptop
 
 ## Disclaimer
