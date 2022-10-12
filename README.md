@@ -22,6 +22,10 @@ GitHub Discussions or Issues within this repository.
   - [Framework-Test-Bench](https://github.com/whatthefilament/Framework-Test-Bench) - Development/Test bench.
 
 ### Embedded Controller Firmware Mods
+- [DHowett](https://github.com/DHowett) (AKA The EC Guy)
+  - [Hacking your Framework Laptop’s EC for fun and profit](https://www.howett.net/posts/2022-04-adding-an-ec-feature-1/) - Great place to start hacking your EC.
+  - [ECTool.EFI](https://github.com/DHowett/FrameworkHacksPkg) - EFI Shell application for flashing the EC.
+- [EC Firmware Source Code](https://github.com/FrameworkComputer/EmbeddedController)
 
 ### Linux Support
 
