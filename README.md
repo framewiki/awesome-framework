@@ -13,6 +13,13 @@ GitHub Discussions or Issues within this repository.
 ### Expansion Cards
 
 ### Mainboard Enclosures
+- [WhatTheFilament](https://github.com/whatthefilament)
+  - [Framework-Motherboard-Reference-CAD](https://github.com/whatthefilament/Framework-Motherboard-Reference-CAD) - To-scale CAD reference of the Framework Mainboard.
+  - [Frame-WorkStation](https://github.com/whatthefilament/Frame-WorkStation) - Desktop enclosure.
+  - [Framework-Desktop-Adapter](https://github.com/whatthefilament/Framework-Desktop-Adapter) - ATX mount adapter.
+  - [Framework-Tablet](https://github.com/whatthefilament/Framework-Tablet) - Tablet conversion case.
+  - [FrameStation](https://github.com/whatthefilament/FrameStation) - Game console enclosure.
+  - [Framework-Test-Bench](https://github.com/whatthefilament/Framework-Test-Bench) - Development/Test bench.
 
 ### Embedded Controller Firmware Mods
 
