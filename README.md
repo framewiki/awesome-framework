@@ -24,3 +24,8 @@ GitHub Discussions or Issues within this repository.
 - [Index](/contributing/index.md)
 - [Template File](/contributing/template.md)
 - [License](/LICENSE)
+
+### Community
+- [Framework Forums](https://community.frame.work)
+- [Framework Discord]()
+- [Framework Subreddit](https://reddit.com/r/framework)
