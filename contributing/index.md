@@ -1,4 +1,4 @@
-[Home](/README.md)  |  [Category Index](/contributing/index.md)
+[Home](/README.md)
 # Contributing
 Be sure that you follow the [Code of Conduct](https://morpheus636.com/code-of-conduct) at all times.
 
@@ -13,21 +13,23 @@ request to be assigned.
 Once someone is assigned, they can move on to Making Changes (below).
 
 ### Making Changes
-1. Fork this repository
-2. Make the suggested changes
+1. Fork this repository.
+2. Make the suggested changes.
     - If the changes involve creating new markdown files, make a copy of
     the [template file](/contributing/template.md).
-        - Make sure you update the Category Index link at the top of the
-        page so it links to the index of the page's parent category.
         - Add a link to the page in the appropriate place in the main README.md file.
-3. Open a Pull Request into the main branch of this repo
+    - See the [Formatting](/contributing/formatting.md) page for more detail
+    on how different types of changes should be formatted.
+    - See the [Code Ownership](/contributing/code-ownership.md) page for information about
+    code ownershp and to determine whether you should be marked as the codeowner for your changes.
+3. Open a Pull Request into the main branch of this repo.
     - Be sure to give your pull request a descriptive name and include a
     summary of what you changed in the body of the PR. 
     - Ensure you use closing keyworks (i.e `Closes #10`) to link the Pull
     Request to the associated issue.
 4. Wait for review from maintainers and address any comments.
 5. Once a maintainer approves your changes, they will be merged into the
-main branch of the main repository.
+main branch.
 
 
 <details>

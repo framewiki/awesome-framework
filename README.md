@@ -22,5 +22,7 @@ GitHub Discussions or Issues within this repository.
 
 ### Contributing
 - [Index](/contributing/index.md)
+- [Formatting](/contributing/formatting.md)
+- [Code Ownership](/contributing/code-ownership.md)
 - [Template File](/contributing/template.md)
 - [License](/LICENSE)
