@@ -16,6 +16,8 @@ This repository and the resources within it are **COMPLETELY UNOFFICIAL** and no
 
 ## Expansion Cards
 
+## Accessories
+
 ## Mainboard Development
 - [Mainboard Reference](https://github.com/FrameworkComputer/Mainboard) - Physical and electrical reference for the Mainboard (and a 3D printable enclosure).
 - [WhatTheFilament](https://github.com/whatthefilament)
@@ -36,6 +38,8 @@ This repository and the resources within it are **COMPLETELY UNOFFICIAL** and no
 - [Distro List](https://frame.work/linux) - List of officially supported distros and links to their setup guides.
 - [Arch Wiki](https://wiki.archlinux.org/title/Framework_Laptop) - The arch wiki entry for the Framework Laptop.
 - [Linux Battery Life Forum Thread](https://community.frame.work/t/linux-battery-life-tuning/6665) - This will be replaced (soon) by a page in this repo since this is outdated and (in some places) incorrect. 
+
+## Hardware Support
 
 ## Troubleshooting
 
