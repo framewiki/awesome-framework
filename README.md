@@ -3,14 +3,20 @@
 
 A curated list of projects, tools, documentation and resources related to the Framework Laptop
 
+## Contents
+- [Disclaimer](#disclaimer) - Please read!
+- [Expansion Cards](#contents)
+- [Mainboard Enclosures](#mainboard-enclosures)
+- [Embedded Controller Firmware Mods](#embedded-controller-firmware-mods)
+- [Linux Support](#linux-support)
+- [Troubleshooting](#troubleshooting)
+
 ## Disclaimer
 This repository and the resources within it are **COMPLETELY UNOFFICIAL** and not in any way endorsed or supported by Framework. Your use of these guides and projects is **AT YOUR OWN RISK** and **MAY VOID YOUR WARRANTY.** We ask that you do not reach out to Framework support about problems related to these resources, but you can feel free to reach out to the community maintainers via GitHub Discussions or Issues within this repository.
 
-## Contents
+## Expansion Cards
 
-### Expansion Cards
-
-### Mainboard Enclosures
+## Mainboard Enclosures
 - [WhatTheFilament](https://github.com/whatthefilament)
   - [Framework-Motherboard-Reference-CAD](https://github.com/whatthefilament/Framework-Motherboard-Reference-CAD) - To-scale CAD reference of the Framework Mainboard.
   - [Frame-WorkStation](https://github.com/whatthefilament/Frame-WorkStation) - Desktop enclosure.
@@ -19,21 +25,20 @@ This repository and the resources within it are **COMPLETELY UNOFFICIAL** and no
   - [FrameStation](https://github.com/whatthefilament/FrameStation) - Game console enclosure.
   - [Framework-Test-Bench](https://github.com/whatthefilament/Framework-Test-Bench) - Development/Test bench.
 
-### Embedded Controller Firmware Mods
+## Embedded Controller Firmware Mods
 - [DHowett](https://github.com/DHowett) (AKA The EC Guy)
   - [Hacking your Framework Laptop’s EC for fun and profit](https://www.howett.net/posts/2022-04-adding-an-ec-feature-1/) - Great place to start hacking your EC.
   - [ECTool.EFI](https://github.com/DHowett/FrameworkHacksPkg) - EFI Shell application for flashing the EC.
 - [EC Firmware Source Code](https://github.com/FrameworkComputer/EmbeddedController)
 
-### Linux Support
+## Linux Support
 
-### Troubleshooting
+## Troubleshooting
 
-### Community
+## Community
 - [Framework Forums](https://community.frame.work)
 - [Framework Discord](https://discord.com/invite/Framework)
 - [Framework Subreddit](https://reddit.com/r/framework)
-
 
 ## Contributing
 This list's Contribution Guidelines can be found [here.](/contributing.md)
