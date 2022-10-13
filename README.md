@@ -16,9 +16,10 @@ This repository and the resources within it are **COMPLETELY UNOFFICIAL** and no
 
 ## Expansion Cards
 
-## Mainboard Enclosures
+## Mainboard Development
+- [Mainboard Reference](https://github.com/FrameworkComputer/Mainboard) - Physical and electrical reference for the Mainboard (and a 3D printable enclosure).
 - [WhatTheFilament](https://github.com/whatthefilament)
-  - [Framework-Motherboard-Reference-CAD](https://github.com/whatthefilament/Framework-Motherboard-Reference-CAD) - To-scale CAD reference of the Framework Mainboard.
+  - [Framework-Motherboard-Reference-CAD](https://github.com/whatthefilament/Framework-Motherboard-Reference-CAD) - To-scale CAD reference of the Mainboard.
   - [Frame-WorkStation](https://github.com/whatthefilament/Frame-WorkStation) - Desktop enclosure.
   - [Framework-Desktop-Adapter](https://github.com/whatthefilament/Framework-Desktop-Adapter) - ATX mount adapter.
   - [Framework-Tablet](https://github.com/whatthefilament/Framework-Tablet) - Tablet conversion case.
