@@ -37,6 +37,7 @@ This repository and the resources within it are **COMPLETELY UNOFFICIAL** and no
 ## Linux Support
 - [Distro List](https://frame.work/linux) - List of officially supported distros and links to their setup guides.
 - [Arch Wiki](https://wiki.archlinux.org/title/Framework_Laptop) - The arch wiki entry for the Framework Laptop.
+- [LinuxLaptops Wiki](https://github.com/lhl/linuxlaptops/wiki/2022-Framework-Laptop-DIY-Edition-12th-Gen-Intel-Batch-1) - Wiki article with a ton of useful information specific to linux on the framework laptop.
 - [Linux Battery Life Forum Thread](https://community.frame.work/t/linux-battery-life-tuning/6665) - This will be replaced (soon) by a page in this repo since this is outdated and (in some places) incorrect. 
 
 ## Accessories
