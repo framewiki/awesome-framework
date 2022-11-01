@@ -39,6 +39,7 @@ This repository and the resources within it are **COMPLETELY UNOFFICIAL** and no
 - [Arch Wiki](https://wiki.archlinux.org/title/Framework_Laptop) - The arch wiki entry for the Framework Laptop.
 - [LinuxLaptops Wiki](https://github.com/lhl/linuxlaptops/wiki/2022-Framework-Laptop-DIY-Edition-12th-Gen-Intel-Batch-1) - Wiki article with a ton of useful information specific to linux on the framework laptop.
 - [Linux Battery Life Forum Thread](https://community.frame.work/t/linux-battery-life-tuning/6665) - This will be replaced (soon) by a page in this repo since this is outdated and (in some places) incorrect. 
+- [Linux Tips For Framework](/linux_fixes.md - Includes tips to fix common issues and to Improve battery life
 
 ## Accessories
 
