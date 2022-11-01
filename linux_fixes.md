@@ -11,6 +11,8 @@ Add the fallowing to this file:
 ```shell 
 sudo nano /etc/modprobe.d/framework-als-deactivate.conf
 ```
+
+```shell
 blacklist hid_sensor_hub
 ```
 
@@ -56,7 +58,7 @@ cd linux-tkg
 ```
 
 
-Recommended settings:
+#### Recommended settings:
 1. Will ask you for what kernel you want to build from 1-5
   a. For latest kernel cho0se option 0
   b. For latest stable kernel choose option 1 (Reccomended)
