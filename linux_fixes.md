@@ -22,6 +22,10 @@ Right Click Fix
 For KDE the current fix is to use double taping and the following will show you how to enable that.
 1. Go to Setting -> Imput Devices -> Trackpad -> Enable Tap to Click
 
+Baloo
+Baloo is a KDE file indexer whitch is needed if you want to easally look for files in the kscop. When indexing is active it drains power fast. To disable this you can go disable it in settings by going to:
+1. Search -> File Search -> Enable File Search
+
 ### Gnome Tips
 
 COMMING SOON
