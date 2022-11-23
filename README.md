@@ -11,6 +11,9 @@ A curated list of projects, tools, documentation and resources related to the Fr
 - [Linux Support](#linux-support)
 - [Accessories](#accessories)
 - [Hardware Support](#hardware-support)
+  - [Storage](#storage)
+  - [Memory](#memory)
+  - [WiFi Cards](#wifi-cards)
 - [Troubleshooting](#troubleshooting)
 
 ## Disclaimer
@@ -43,12 +46,12 @@ This repository and the resources within it are **COMPLETELY UNOFFICIAL** and no
 ## Accessories
 
 ## Hardware Support
-- Storage
-  - [Officially Validated SSD List](https://knowledgebase.frame.work/en_us/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_)
-- Memory
-  - [Officially Validated DRAM List](https://knowledgebase.frame.work/en_us/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru)
-- WiFi Cards
-  - [Officially Validated Wifi Card List](https://knowledgebase.frame.work/en_us/what-wifi-parts-are-compatible-with-the-framework-laptop-rytGfHU0d)
+### Storage
+- [Officially Validated SSD List](https://knowledgebase.frame.work/en_us/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_)
+### Memory
+- [Officially Validated DRAM List](https://knowledgebase.frame.work/en_us/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru)
+### WiFi Cards
+- [Officially Validated Wifi Card List](https://knowledgebase.frame.work/en_us/what-wifi-parts-are-compatible-with-the-framework-laptop-rytGfHU0d)
 
 ## Troubleshooting
 
