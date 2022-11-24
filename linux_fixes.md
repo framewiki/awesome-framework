@@ -1,21 +1,5 @@
 # Linux Tips
 
-UNDER CONSTRUCTION!!!
-
-## Common issues
-
-Changing Screen Brightness via keyboard does not work:
-Due to the ambient light sensor not working please do the follwing
-
-Add the fallowing to this file: 
-```shell 
-sudo nano /etc/modprobe.d/framework-als-deactivate.conf
-```
-
-```shell
-blacklist hid_sensor_hub
-```
-
 ### KDE Plasma Tips
 
 Right Click Fix
