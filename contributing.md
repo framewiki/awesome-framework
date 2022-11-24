@@ -8,7 +8,7 @@ Be sure that you follow the [Code of Conduct](https://morpheus636.com/code-of-co
 3. Wait for a maintainer will mark the issue as approved or denied. If it's approved, either you or another member of the community will be assigned to add it, and they can move on to the Making Changes section (below).
 
 ### Making Changes
-> NOTE:
+> **Warning**
 > All pull requests must be associated with a GitHub issue that has been marked as `approved`, described above. Pull Requests without approved issues will be closed.
 
 1. Fork this repository.
