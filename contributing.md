@@ -3,13 +3,14 @@
 Be sure that you follow the [Code of Conduct](https://morpheus636.com/code-of-conduct) at all times.
 
 ### Proposing Changes
-Propose changes by opening a GitHub Issue in this repository. Please indicate in the issue whether you want to make the change yourself or are proposing it for another contributer or maintainer.
-
-After discussion and review, a maintainer will mark the issue as approved or denied. If it's approved, either you will be assigned to the issue (if you indicated you would like to be) or someone else can request to be assigned.
-
-Once someone is assigned, they can move on to the Making Changes section (below).
+1. Propose changes by opening a GitHub Issue in this repository. Please indicate in the issue whether you want to make the change yourself or are proposing it for another contributer or maintainer.
+2. Discuss the proposal in the issue with maintainers and other members of the community to determine if it is a good fit for the repo.
+3. Wait for a maintainer will mark the issue as approved or denied. If it's approved, either you or another member of the community will be assigned to add it, and they can move on to the Making Changes section (below).
 
 ### Making Changes
+> **Warning**
+> All pull requests must be associated with a GitHub issue that has been marked as `approved` as described above. Pull Requests without approved issues will be closed.
+
 1. Fork this repository.
 2. Make the suggested changes.
     - If the changes involve creating new markdown files, make a copy of
