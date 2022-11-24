@@ -9,7 +9,7 @@ Be sure that you follow the [Code of Conduct](https://morpheus636.com/code-of-co
 
 ### Making Changes
 > **Warning**
-> All pull requests must be associated with a GitHub issue that has been marked as `approved`, described above. Pull Requests without approved issues will be closed.
+> All pull requests must be associated with a GitHub issue that has been marked as `approved` as described above. Pull Requests without approved issues will be closed.
 
 1. Fork this repository.
 2. Make the suggested changes.
