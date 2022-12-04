@@ -47,8 +47,13 @@ This repository and the resources within it are **COMPLETELY UNOFFICIAL** and no
 ## Accessories
 
 ## Hardware Support
+> **Note**
+> Parts listed as community validated are not on Framework's list of officially supported parts. While they have been tested by members of the community, there is no guarantee that they will work for you.
 ### Storage
 - [Officially Validated SSD List](https://knowledgebase.frame.work/en_us/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_)
+- [SK Hynix Gold P31](https://www.amazon.com/dp/B08DKB5LWY) - Community validated SSD. Available in 500GB, 1TB and 2TB sizes.
+- [Crucial P2](https://www.amazon.com/gp/product/B086BGWNY8/) - Community validated SSD. Available in 256GB, 500GB, 1TB and 2TB.
+
 ### Memory
 - [Officially Validated DRAM List](https://knowledgebase.frame.work/en_us/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru)
 ### WiFi Cards
