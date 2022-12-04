@@ -48,7 +48,8 @@ This repository and the resources within it are **COMPLETELY UNOFFICIAL** and no
 
 ## Hardware Support
 > **Note**
-> Parts listed as community validated are not on Framework's list of officially supported parts. While they have been tested by members of the community, there is no guarantee that they will work for you.
+> Parts listed as community validated are not on Framework's list of officially supported parts. While they have been tested by members of the community, there is no guarantee that they will work for you. Additionally, no guarantees of any kind are made about the sellers linked.
+
 ### Storage
 - [Officially Validated SSD List](https://knowledgebase.frame.work/en_us/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_)
 - [SK Hynix Gold P31](https://www.amazon.com/dp/B08DKB5LWY) - Community validated SSD. Available in 500GB, 1TB and 2TB sizes.
@@ -56,6 +57,10 @@ This repository and the resources within it are **COMPLETELY UNOFFICIAL** and no
 
 ### Memory
 - [Officially Validated DRAM List](https://knowledgebase.frame.work/en_us/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru)
+- [Crucial CT2K16G4SFD832A](https://www.amazon.com//dp/B07Q7T9NSC) - Community validated DDR4-3200 CL22 RAM. Available in 32GB (2x16GB) kits.
+- [SK Hynix HMAA1GS6CJR6N](https://www.amazon.com/dp/B0BM9YL1C5/) - Community validated DDR4-3200 RAM. Available in 8GB (1x8GB) kits.
+- [SK Hynix HMA851S6CJR6N](https://www.amazon.com/dp/B092RK7KLM/) - Community validateed DDR4-3200 RAM. Available in 4GB (1x4GB) kits.
+
 ### WiFi Cards
 - [Officially Validated Wifi Card List](https://knowledgebase.frame.work/en_us/what-wifi-parts-are-compatible-with-the-framework-laptop-rytGfHU0d)
 
