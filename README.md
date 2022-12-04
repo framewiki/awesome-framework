@@ -10,6 +10,7 @@ A curated list of projects, tools, documentation and resources related to the Fr
 - [Embedded Controller Firmware Mods](#embedded-controller-firmware-mods)
 - [Linux Support](#linux-support)
 - [Accessories](#accessories)
+  - [Cases and Sleeves](#cases)
 - [Hardware Support](#hardware-support)
   - [Storage](#storage)
   - [Memory](#memory)
@@ -45,12 +46,26 @@ This repository and the resources within it are **COMPLETELY UNOFFICIAL** and no
 - [Common Problems](/linux/common-problems.md) - A collection of common issues with running Linux on the Framework laptop and their solutions.
 
 ## Accessories
+### Cases and Sleeves
+- [Case Logic Reflect 13"](https://www.caselogic.com/en-us/laptop-bags/laptop-sleeves/case-logic-reflect-13-laptop-sleeve-_-3204690) - Community [tested](https://github.com/Morpheus636/awesome-framework/issues/10#issuecomment-1325427414) laptop sleeve. Ensure you do NOT get the MacBook version as it will not fit.
+- [Tomtoc Laptop Shoulder Bag 13-13.5"](https://www.amazon.com/dp/B072L4R2DY) - Community [tested](https://github.com/Morpheus636/awesome-framework/issues/10#issuecomment-1325465369) laptop case / shoulder bag.
+- [FINPAC Hard Case for 13" MacBook](https://www.amazon.com/dp/B088WNMW8N) - Community [tested](https://github.com/Morpheus636/awesome-framework/issues/10#issuecomment-1325754958) hard laptop case.
 
 ## Hardware Support
+> **Note**
+> Parts listed as community validated are not on Framework's list of officially supported parts. While they have been tested by members of the community, there is no guarantee that they will work for you.
+
 ### Storage
 - [Officially Validated SSD List](https://knowledgebase.frame.work/en_us/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_)
+- [SK Hynix Gold P31](https://www.amazon.com/dp/B08DKB5LWY) - Community validated SSD. Available in 500GB, 1TB and 2TB sizes.
+- [Crucial P2](https://www.amazon.com/gp/product/B086BGWNY8/) - Community validated SSD. Available in 256GB, 500GB, 1TB and 2TB.
+
 ### Memory
 - [Officially Validated DRAM List](https://knowledgebase.frame.work/en_us/what-memory-dram-parts-are-compatible-with-the-framework-laptop-ry_jbS8Ru)
+- [Crucial CT2K16G4SFD832A](https://www.amazon.com//dp/B07Q7T9NSC) - Community validated DDR4-3200 CL22 RAM. Available in 32GB (2x16GB) kits.
+- [SK Hynix HMAA1GS6CJR6N](https://www.amazon.com/dp/B0BM9YL1C5/) - Community validated DDR4-3200 RAM. Available in 8GB (1x8GB) kits.
+- [SK Hynix HMA851S6CJR6N](https://www.amazon.com/dp/B092RK7KLM/) - Community validateed DDR4-3200 RAM. Available in 4GB (1x4GB) kits.
+
 ### WiFi Cards
 - [Officially Validated Wifi Card List](https://knowledgebase.frame.work/en_us/what-wifi-parts-are-compatible-with-the-framework-laptop-rytGfHU0d)
 
