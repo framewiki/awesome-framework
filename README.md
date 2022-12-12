@@ -10,6 +10,8 @@ A curated list of projects, tools, documentation and resources related to the Fr
 - [Embedded Controller Firmware Mods](#embedded-controller-firmware-mods)
 - [Linux Support](#linux-support)
 - [Accessories](#accessories)
+  - [Chargers](#chargers)
+  - [Docking Stations](#docking-stations)
   - [Cases and Sleeves](#cases)
 - [Hardware Support](#hardware-support)
   - [Storage](#storage)
@@ -19,6 +21,9 @@ A curated list of projects, tools, documentation and resources related to the Fr
 
 ## Disclaimer
 This repository and the resources within it are **COMPLETELY UNOFFICIAL** and not in any way endorsed or supported by Framework. Your use of these guides and projects is **AT YOUR OWN RISK** and **MAY VOID YOUR WARRANTY.** We ask that you do not reach out to Framework support about problems related to these resources, but you can feel free to reach out to the community maintainers via GitHub Discussions or Issues within this repository.
+
+> **Note**
+> Parts listed as community validated are not on Framework's list of officially supported parts. While they have been tested by members of the community, there is no guarantee that they will work for you.
 
 ## Expansion Cards
 
@@ -43,17 +48,23 @@ This repository and the resources within it are **COMPLETELY UNOFFICIAL** and no
 - [Arch Wiki](https://wiki.archlinux.org/title/Framework_Laptop) - The arch wiki entry for the Framework Laptop.
 - [LinuxLaptops Wiki](https://github.com/lhl/linuxlaptops/wiki/2022-Framework-Laptop-DIY-Edition-12th-Gen-Intel-Batch-1) - Wiki article with a ton of useful information specific to linux on the framework laptop.
 - [Linux Battery Life Forum Thread](https://community.frame.work/t/linux-battery-life-tuning/6665) - This will be replaced (soon) by a page in this repo since this is outdated and (in some places) incorrect. 
-- [Common Problems](/linux/common-problems.md) - A collection of common issues with running Linux on the Framework laptop and their solutions.
+- [Common Problems](/linux/common-problems.md) - A collection of common issues with running Linux on the Framework laptop and their solutions.(
 
 ## Accessories
+### Chargers
+- [Official Framework Power Adapter](https://frame.work/products/power-adapter?v=FRANCEPH0B) - Framework's first-party USB-PD charging adapter. 
+- [Anker 65W Nano](https://www.amazon.com/dp/B08T5QN2TR) - Community validated single-port 65W PD charger.
+
+### Docking Stations
+- [Thunderbolt 4 Support](https://knowledgebase.frame.work/does-the-framework-laptop-support-thunderbolt-rkjEJn4Jt) - Official knowledgebase article on TB4 support.
+- [Anker 777 TB4 Docking Station](https://www.amazon.com/gp/product/B0928W3XHD) - Community validated docking station with HDMI, USB-A, USB-C, SD and Audio. All I/O options work out-of-the-box on 12th gen Framework running Ubuntu 22.04.
+
 ### Cases and Sleeves
 - [Case Logic Reflect 13"](https://www.caselogic.com/en-us/laptop-bags/laptop-sleeves/case-logic-reflect-13-laptop-sleeve-_-3204690) - Community [tested](https://github.com/Morpheus636/awesome-framework/issues/10#issuecomment-1325427414) laptop sleeve. Ensure you do NOT get the MacBook version as it will not fit.
-- [Tomtoc Laptop Shoulder Bag 13-13.5"](https://www.amazon.com/dp/B072L4R2DY) - Community [tested](https://github.com/Morpheus636/awesome-framework/issues/10#issuecomment-1325465369) laptop case / shoulder bag.
-- [FINPAC Hard Case for 13" MacBook](https://www.amazon.com/dp/B088WNMW8N) - Community [tested](https://github.com/Morpheus636/awesome-framework/issues/10#issuecomment-1325754958) hard laptop case.
+- [Tomtoc Laptop Shoulder Bag 13-13.5"](https://www.amazon.com/dp/B072L4R2DY) - Community [validated](https://github.com/Morpheus636/awesome-framework/issues/10#issuecomment-1325465369) laptop case / shoulder bag.
+- [FINPAC Hard Case for 13" MacBook](https://www.amazon.com/dp/B088WNMW8N) - Community [validated](https://github.com/Morpheus636/awesome-framework/issues/10#issuecomment-1325754958) hard laptop case.
 
 ## Hardware Support
-> **Note**
-> Parts listed as community validated are not on Framework's list of officially supported parts. While they have been tested by members of the community, there is no guarantee that they will work for you.
 
 ### Storage
 - [Officially Validated SSD List](https://knowledgebase.frame.work/en_us/what-storage-ssd-parts-are-compatible-with-the-framework-laptop-rJOOeHU0_)
