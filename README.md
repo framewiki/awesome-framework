@@ -36,6 +36,7 @@ This repository and the resources within it are **COMPLETELY UNOFFICIAL** and no
   - [Framework-Tablet](https://github.com/whatthefilament/Framework-Tablet) - Tablet conversion case.
   - [FrameStation](https://github.com/whatthefilament/FrameStation) - Game console enclosure.
   - [Framework-Test-Bench](https://github.com/whatthefilament/Framework-Test-Bench) - Development/Test bench.
+- [DIY Perks Triple-Screen Laptop](https://www.youtube.com/watch?v=aUKpY0o5tMo) - Custom triple-screen laptop using Framework mainboard and battery.
 
 ## Embedded Controller Firmware Mods
 - [DHowett](https://github.com/DHowett) (AKA The EC Guy)
