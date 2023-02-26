@@ -26,6 +26,8 @@ This repository and the resources within it are **COMPLETELY UNOFFICIAL** and no
 > Parts listed as community validated are not on Framework's list of officially supported parts. While they have been tested by members of the community, there is no guarantee that they will work for you.
 
 ## Expansion Cards
+- [Josh_Cook]()
+  - UART [GitHub](https://github.com/jyancat/UART-Expansion-Card) and [Store](https://lectronz.com/products/uart-expansion-card) - Complete UART expansion card, available as pre-assembled from his store, or design files on GitHub.
 
 ## Mainboard Development
 - [Mainboard Reference](https://github.com/FrameworkComputer/Mainboard) - Physical and electrical reference for the Mainboard (and a 3D printable enclosure).
