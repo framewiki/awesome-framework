@@ -28,6 +28,8 @@ This repository and the resources within it are **COMPLETELY UNOFFICIAL** and no
 ## Expansion Cards
 - [Josh_Cook]()
   - UART [GitHub](https://github.com/jyancat/UART-Expansion-Card) and [Store](https://lectronz.com/products/uart-expansion-card) - Complete UART expansion card, available as pre-assembled from his store, or design files on GitHub.
+- [Spacehuhn](https://www.youtube.com/watch?v=IML9c_MsyQU)
+  - ESP32-S3 [GitHub](https://github.com/SpacehuhnTech/framework) and [Store](https://spacehuhn.store/products/framework-esp32-s3-expansion-card) - An ESP32-S3 development board with Neopixel RGB LED and a QWIIC/Stemma QT connector.
 
 ## Mainboard Development
 - [Mainboard Reference](https://github.com/FrameworkComputer/Mainboard) - Physical and electrical reference for the Mainboard (and a 3D printable enclosure).
