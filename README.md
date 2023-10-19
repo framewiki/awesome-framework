@@ -53,7 +53,7 @@ This repository and the resources within it are **COMPLETELY UNOFFICIAL** and no
 - [Official Battery Life Instructions](https://knowledgebase.frame.work/en_us/optimizing-ubuntu-battery-life-Sye_48Lg3) - Instructions for increasing battery life on Framework Laptop running Ubuntu. Should be able to be applied to other distros.
 - [Arch Wiki](https://wiki.archlinux.org/title/Framework_Laptop) - The arch wiki entry for the Framework Laptop.
 - [LinuxLaptops Wiki](https://github.com/lhl/linuxlaptops/wiki/2022-Framework-Laptop-DIY-Edition-12th-Gen-Intel-Batch-1) - Wiki article with a ton of useful information specific to linux on the framework laptop. 
-- [Common Problems](/linux/common-problems.md) - A collection of common issues with running Linux on the Framework laptop and their solutions.(
+- [Common Problems](/linux/common-problems.md) - A collection of common issues with running Linux on the Framework laptop and their solutions.
 
 ## Accessories
 ### Chargers
